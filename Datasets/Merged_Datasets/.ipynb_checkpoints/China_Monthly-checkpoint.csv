@@ -1,4 +1,4 @@
-Year,Month,canada_unemployment_rates,unemployment_rates,canada_inflation_rate,inflation_rate,canada_total_cases,canada_total_tests,canada_people_fully_vaccinated,canada_total_deaths,canada_reproduction_rate,total_cases,total_tests,people_fully_vaccinated,total_deaths,reproduction_rate
+Year,Month,canada_unemployment_rates,unemployment_rates,inflation_rate_x,inflation_rate_y,canada_total_cases,canada_total_tests,canada_people_fully_vaccinated,canada_total_deaths,canada_reproduction_rate,total_cases,total_tests,people_fully_vaccinated,total_deaths,reproduction_rate
 2019,1,5.9,5.1,1.4,1.74,,,,,,,,,,
 2019,2,5.9,5.3,1.5,1.49,,,,,,,,,,
 2019,3,5.8,5.2,1.9,2.28,,,,,,,,,,
