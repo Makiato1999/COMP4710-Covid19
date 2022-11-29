@@ -3,4 +3,4 @@
 1,0.4222222222222222,frozenset({'inflation_rate'})
 2,0.4,frozenset({'canada_total_cases'})
 3,0.35555555555555557,frozenset({'canada_total_tests'})
-4,0.35555555555555557,"frozenset({'canada_total_tests', 'canada_total_cases'})"
+4,0.35555555555555557,"frozenset({'canada_total_cases', 'canada_total_tests'})"

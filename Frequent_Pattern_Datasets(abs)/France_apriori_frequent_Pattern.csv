@@ -1,36 +1,7 @@
 ,support,itemsets
-<<<<<<< HEAD
-0,0.7555555555555555,frozenset({'canada_unemployment_rates'})
-1,0.37777777777777777,frozenset({'unemployment_rates'})
-2,0.6888888888888889,frozenset({'canada_inflation_rate'})
-3,0.7333333333333333,frozenset({'inflation_rate'})
-4,0.4,frozenset({'canada_total_cases'})
-5,0.4444444444444444,frozenset({'total_cases'})
-6,0.35555555555555557,frozenset({'canada_total_tests'})
-7,0.37777777777777777,frozenset({'total_tests'})
-8,0.4444444444444444,frozenset({'canada_reproduction_rate'})
-9,0.5333333333333333,frozenset({'reproduction_rate'})
-10,0.5777777777777777,"frozenset({'canada_inflation_rate', 'canada_unemployment_rates'})"
-11,0.6,"frozenset({'inflation_rate', 'canada_unemployment_rates'})"
-12,0.37777777777777777,"frozenset({'canada_unemployment_rates', 'total_cases'})"
-13,0.4444444444444444,"frozenset({'canada_unemployment_rates', 'reproduction_rate'})"
-14,0.5555555555555556,"frozenset({'canada_inflation_rate', 'inflation_rate'})"
-15,0.35555555555555557,"frozenset({'canada_inflation_rate', 'total_cases'})"
-16,0.4444444444444444,"frozenset({'canada_inflation_rate', 'reproduction_rate'})"
-17,0.4222222222222222,"frozenset({'inflation_rate', 'reproduction_rate'})"
-18,0.35555555555555557,"frozenset({'canada_total_cases', 'total_cases'})"
-19,0.35555555555555557,"frozenset({'canada_total_tests', 'canada_total_cases'})"
-20,0.4666666666666667,"frozenset({'canada_inflation_rate', 'canada_unemployment_rates', 'inflation_rate'})"
-21,0.4,"frozenset({'canada_inflation_rate', 'canada_unemployment_rates', 'reproduction_rate'})"
-22,0.37777777777777777,"frozenset({'inflation_rate', 'canada_unemployment_rates', 'reproduction_rate'})"
-23,0.35555555555555557,"frozenset({'canada_inflation_rate', 'inflation_rate', 'reproduction_rate'})"
-=======
-0,0.5555555555555556,frozenset({'unemployment_rates'})
-1,0.37777777777777777,frozenset({'canada_total_tests'})
-2,0.5333333333333333,frozenset({'canada_total_deaths'})
-3,0.5111111111111111,frozenset({'total_deaths'})
-4,0.35555555555555557,"frozenset({'canada_total_deaths', 'canada_total_tests'})"
-5,0.37777777777777777,"frozenset({'canada_total_tests', 'total_deaths'})"
-6,0.4666666666666667,"frozenset({'canada_total_deaths', 'total_deaths'})"
-7,0.35555555555555557,"frozenset({'canada_total_deaths', 'canada_total_tests', 'total_deaths'})"
->>>>>>> 3882a4c35673f27f9e498192e54dee7182bd273f
+0,0.6222222222222222,frozenset({'canada_unemployment_rates'})
+1,0.6,frozenset({'canada_inflation_rate'})
+2,0.5111111111111111,frozenset({'inflation_rate'})
+3,0.4222222222222222,frozenset({'reproduction_rate'})
+4,0.4222222222222222,"frozenset({'canada_inflation_rate', 'canada_unemployment_rates'})"
+5,0.4222222222222222,"frozenset({'canada_inflation_rate', 'inflation_rate'})"
