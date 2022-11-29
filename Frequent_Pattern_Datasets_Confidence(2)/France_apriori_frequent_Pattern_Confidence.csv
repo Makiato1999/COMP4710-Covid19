@@ -1,0 +1,5 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+0,frozenset({'canada_total_cases'}),frozenset({'total_cases'}),0.4,0.4444444444444444,0.35555555555555557,0.8888888888888888,2.0,0.17777777777777778,4.999999999999998
+1,frozenset({'total_cases'}),frozenset({'canada_total_cases'}),0.4444444444444444,0.4,0.35555555555555557,0.8,2.0,0.17777777777777778,3.0000000000000004
+2,frozenset({'canada_total_tests'}),frozenset({'canada_total_cases'}),0.35555555555555557,0.4,0.35555555555555557,1.0,2.5,0.21333333333333335,inf
+3,frozenset({'canada_total_cases'}),frozenset({'canada_total_tests'}),0.4,0.35555555555555557,0.35555555555555557,0.8888888888888888,2.4999999999999996,0.21333333333333335,5.799999999999997
