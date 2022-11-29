@@ -1,0 +1,9 @@
+,support,itemsets
+0,0.5555555555555556,frozenset({'unemployment_rates'})
+1,0.5111111111111111,frozenset({'total_deaths'})
+2,0.5333333333333333,frozenset({'canada_total_deaths'})
+3,0.37777777777777777,frozenset({'canada_total_tests'})
+4,0.4666666666666667,"frozenset({'canada_total_deaths', 'total_deaths'})"
+5,0.37777777777777777,"frozenset({'canada_total_tests', 'total_deaths'})"
+6,0.35555555555555557,"frozenset({'canada_total_deaths', 'canada_total_tests'})"
+7,0.35555555555555557,"frozenset({'canada_total_deaths', 'canada_total_tests', 'total_deaths'})"

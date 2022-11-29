@@ -1,4 +1,5 @@
 ,support,itemsets
+<<<<<<< HEAD
 0,0.7555555555555555,frozenset({'inflation_rate'})
 1,0.7555555555555555,frozenset({'canada_unemployment_rates'})
 2,0.6888888888888889,frozenset({'canada_inflation_rate'})
@@ -24,3 +25,9 @@
 22,0.35555555555555557,"frozenset({'canada_inflation_rate', 'reproduction_rate'})"
 23,0.35555555555555557,"frozenset({'canada_unemployment_rates', 'reproduction_rate'})"
 24,0.35555555555555557,"frozenset({'total_tests', 'total_deaths'})"
+=======
+0,0.5111111111111111,frozenset({'unemployment_rates'})
+1,0.5333333333333333,frozenset({'canada_total_deaths'})
+2,0.37777777777777777,frozenset({'canada_total_tests'})
+3,0.35555555555555557,"frozenset({'canada_total_deaths', 'canada_total_tests'})"
+>>>>>>> 3882a4c35673f27f9e498192e54dee7182bd273f
