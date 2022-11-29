@@ -8,5 +8,5 @@
 6,0.37777777777777777,"frozenset({'canada_total_cases', 'total_cases'})"
 7,0.37777777777777777,"frozenset({'total_tests', 'canada_total_cases'})"
 8,0.35555555555555557,"frozenset({'total_tests', 'canada_total_cases', 'total_cases'})"
-9,0.35555555555555557,"frozenset({'canada_total_cases', 'canada_total_tests'})"
+9,0.35555555555555557,"frozenset({'canada_total_tests', 'canada_total_cases'})"
 10,0.5333333333333333,"frozenset({'total_tests', 'total_cases'})"
