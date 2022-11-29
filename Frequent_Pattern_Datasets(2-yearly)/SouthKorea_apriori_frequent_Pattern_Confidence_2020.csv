@@ -1,0 +1,205 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+0,frozenset({'canada_unemployment_rates'}),frozenset({'canada_total_cases'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+1,frozenset({'canada_unemployment_rates'}),frozenset({'canada_total_tests'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+2,frozenset({'inflation_rate'}),frozenset({'canada_total_cases'}),0.5,0.9166666666666666,0.4166666666666667,0.8333333333333334,0.9090909090909092,-0.04166666666666663,0.5000000000000003
+3,frozenset({'inflation_rate'}),frozenset({'total_cases'}),0.5,0.8333333333333334,0.4166666666666667,0.8333333333333334,1.0,0.0,1.0
+4,frozenset({'inflation_rate'}),frozenset({'canada_total_tests'}),0.5,0.9166666666666666,0.4166666666666667,0.8333333333333334,0.9090909090909092,-0.04166666666666663,0.5000000000000003
+5,frozenset({'inflation_rate'}),frozenset({'total_tests'}),0.5,0.8333333333333334,0.4166666666666667,0.8333333333333334,1.0,0.0,1.0
+6,frozenset({'canada_total_cases'}),frozenset({'total_cases'}),0.9166666666666666,0.8333333333333334,0.8333333333333334,0.9090909090909092,1.090909090909091,0.06944444444444453,1.8333333333333346
+7,frozenset({'total_cases'}),frozenset({'canada_total_cases'}),0.8333333333333334,0.9166666666666666,0.8333333333333334,1.0,1.090909090909091,0.06944444444444453,inf
+8,frozenset({'canada_total_tests'}),frozenset({'canada_total_cases'}),0.9166666666666666,0.9166666666666666,0.9166666666666666,1.0,1.090909090909091,0.07638888888888895,inf
+9,frozenset({'canada_total_cases'}),frozenset({'canada_total_tests'}),0.9166666666666666,0.9166666666666666,0.9166666666666666,1.0,1.090909090909091,0.07638888888888895,inf
+10,frozenset({'total_tests'}),frozenset({'canada_total_cases'}),0.8333333333333334,0.9166666666666666,0.8333333333333334,1.0,1.090909090909091,0.06944444444444453,inf
+11,frozenset({'canada_total_cases'}),frozenset({'total_tests'}),0.9166666666666666,0.8333333333333334,0.8333333333333334,0.9090909090909092,1.090909090909091,0.06944444444444453,1.8333333333333346
+12,frozenset({'canada_total_deaths'}),frozenset({'canada_total_cases'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+13,frozenset({'total_deaths'}),frozenset({'canada_total_cases'}),0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+14,frozenset({'canada_total_tests'}),frozenset({'total_cases'}),0.9166666666666666,0.8333333333333334,0.8333333333333334,0.9090909090909092,1.090909090909091,0.06944444444444453,1.8333333333333346
+15,frozenset({'total_cases'}),frozenset({'canada_total_tests'}),0.8333333333333334,0.9166666666666666,0.8333333333333334,1.0,1.090909090909091,0.06944444444444453,inf
+16,frozenset({'total_tests'}),frozenset({'total_cases'}),0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+17,frozenset({'total_cases'}),frozenset({'total_tests'}),0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+18,frozenset({'total_deaths'}),frozenset({'total_cases'}),0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+19,frozenset({'canada_total_tests'}),frozenset({'total_tests'}),0.9166666666666666,0.8333333333333334,0.8333333333333334,0.9090909090909092,1.090909090909091,0.06944444444444453,1.8333333333333346
+20,frozenset({'total_tests'}),frozenset({'canada_total_tests'}),0.8333333333333334,0.9166666666666666,0.8333333333333334,1.0,1.090909090909091,0.06944444444444453,inf
+21,frozenset({'canada_total_deaths'}),frozenset({'canada_total_tests'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+22,frozenset({'total_deaths'}),frozenset({'canada_total_tests'}),0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+23,frozenset({'canada_total_deaths'}),frozenset({'total_tests'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+24,frozenset({'total_deaths'}),frozenset({'total_tests'}),0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+25,"frozenset({'canada_unemployment_rates', 'canada_total_cases'})",frozenset({'canada_total_tests'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+26,"frozenset({'canada_total_tests', 'canada_unemployment_rates'})",frozenset({'canada_total_cases'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+27,frozenset({'canada_unemployment_rates'}),"frozenset({'canada_total_tests', 'canada_total_cases'})",0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+28,"frozenset({'inflation_rate', 'canada_total_cases'})",frozenset({'total_cases'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+29,"frozenset({'inflation_rate', 'total_cases'})",frozenset({'canada_total_cases'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+30,frozenset({'inflation_rate'}),"frozenset({'canada_total_cases', 'total_cases'})",0.5,0.8333333333333334,0.4166666666666667,0.8333333333333334,1.0,0.0,1.0
+31,"frozenset({'inflation_rate', 'canada_total_cases'})",frozenset({'canada_total_tests'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+32,"frozenset({'canada_total_tests', 'inflation_rate'})",frozenset({'canada_total_cases'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+33,frozenset({'inflation_rate'}),"frozenset({'canada_total_tests', 'canada_total_cases'})",0.5,0.9166666666666666,0.4166666666666667,0.8333333333333334,0.9090909090909092,-0.04166666666666663,0.5000000000000003
+34,"frozenset({'inflation_rate', 'canada_total_cases'})",frozenset({'total_tests'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+35,"frozenset({'total_tests', 'inflation_rate'})",frozenset({'canada_total_cases'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+36,frozenset({'inflation_rate'}),"frozenset({'total_tests', 'canada_total_cases'})",0.5,0.8333333333333334,0.4166666666666667,0.8333333333333334,1.0,0.0,1.0
+37,"frozenset({'canada_total_tests', 'inflation_rate'})",frozenset({'total_cases'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+38,"frozenset({'inflation_rate', 'total_cases'})",frozenset({'canada_total_tests'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+39,frozenset({'inflation_rate'}),"frozenset({'canada_total_tests', 'total_cases'})",0.5,0.8333333333333334,0.4166666666666667,0.8333333333333334,1.0,0.0,1.0
+40,"frozenset({'total_tests', 'inflation_rate'})",frozenset({'total_cases'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+41,"frozenset({'inflation_rate', 'total_cases'})",frozenset({'total_tests'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+42,frozenset({'inflation_rate'}),"frozenset({'total_tests', 'total_cases'})",0.5,0.75,0.4166666666666667,0.8333333333333334,1.1111111111111112,0.041666666666666685,1.5000000000000004
+43,"frozenset({'canada_total_tests', 'inflation_rate'})",frozenset({'total_tests'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+44,"frozenset({'total_tests', 'inflation_rate'})",frozenset({'canada_total_tests'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+45,frozenset({'inflation_rate'}),"frozenset({'canada_total_tests', 'total_tests'})",0.5,0.8333333333333334,0.4166666666666667,0.8333333333333334,1.0,0.0,1.0
+46,"frozenset({'canada_total_tests', 'canada_total_cases'})",frozenset({'total_cases'}),0.9166666666666666,0.8333333333333334,0.8333333333333334,0.9090909090909092,1.090909090909091,0.06944444444444453,1.8333333333333346
+47,"frozenset({'canada_total_tests', 'total_cases'})",frozenset({'canada_total_cases'}),0.8333333333333334,0.9166666666666666,0.8333333333333334,1.0,1.090909090909091,0.06944444444444453,inf
+48,"frozenset({'canada_total_cases', 'total_cases'})",frozenset({'canada_total_tests'}),0.8333333333333334,0.9166666666666666,0.8333333333333334,1.0,1.090909090909091,0.06944444444444453,inf
+49,frozenset({'canada_total_tests'}),"frozenset({'canada_total_cases', 'total_cases'})",0.9166666666666666,0.8333333333333334,0.8333333333333334,0.9090909090909092,1.090909090909091,0.06944444444444453,1.8333333333333346
+50,frozenset({'canada_total_cases'}),"frozenset({'canada_total_tests', 'total_cases'})",0.9166666666666666,0.8333333333333334,0.8333333333333334,0.9090909090909092,1.090909090909091,0.06944444444444453,1.8333333333333346
+51,frozenset({'total_cases'}),"frozenset({'canada_total_tests', 'canada_total_cases'})",0.8333333333333334,0.9166666666666666,0.8333333333333334,1.0,1.090909090909091,0.06944444444444453,inf
+52,"frozenset({'total_tests', 'canada_total_cases'})",frozenset({'total_cases'}),0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+53,"frozenset({'total_tests', 'total_cases'})",frozenset({'canada_total_cases'}),0.75,0.9166666666666666,0.75,1.0,1.090909090909091,0.0625,inf
+54,"frozenset({'canada_total_cases', 'total_cases'})",frozenset({'total_tests'}),0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+55,frozenset({'total_tests'}),"frozenset({'canada_total_cases', 'total_cases'})",0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+56,frozenset({'canada_total_cases'}),"frozenset({'total_tests', 'total_cases'})",0.9166666666666666,0.75,0.75,0.8181818181818182,1.090909090909091,0.0625,1.3750000000000004
+57,frozenset({'total_cases'}),"frozenset({'total_tests', 'canada_total_cases'})",0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+58,"frozenset({'total_cases', 'total_deaths'})",frozenset({'canada_total_cases'}),0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+59,"frozenset({'canada_total_cases', 'total_deaths'})",frozenset({'total_cases'}),0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+60,frozenset({'total_deaths'}),"frozenset({'canada_total_cases', 'total_cases'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+61,"frozenset({'canada_total_tests', 'total_tests'})",frozenset({'canada_total_cases'}),0.8333333333333334,0.9166666666666666,0.8333333333333334,1.0,1.090909090909091,0.06944444444444453,inf
+62,"frozenset({'canada_total_tests', 'canada_total_cases'})",frozenset({'total_tests'}),0.9166666666666666,0.8333333333333334,0.8333333333333334,0.9090909090909092,1.090909090909091,0.06944444444444453,1.8333333333333346
+63,"frozenset({'total_tests', 'canada_total_cases'})",frozenset({'canada_total_tests'}),0.8333333333333334,0.9166666666666666,0.8333333333333334,1.0,1.090909090909091,0.06944444444444453,inf
+64,frozenset({'canada_total_tests'}),"frozenset({'total_tests', 'canada_total_cases'})",0.9166666666666666,0.8333333333333334,0.8333333333333334,0.9090909090909092,1.090909090909091,0.06944444444444453,1.8333333333333346
+65,frozenset({'total_tests'}),"frozenset({'canada_total_tests', 'canada_total_cases'})",0.8333333333333334,0.9166666666666666,0.8333333333333334,1.0,1.090909090909091,0.06944444444444453,inf
+66,frozenset({'canada_total_cases'}),"frozenset({'canada_total_tests', 'total_tests'})",0.9166666666666666,0.8333333333333334,0.8333333333333334,0.9090909090909092,1.090909090909091,0.06944444444444453,1.8333333333333346
+67,"frozenset({'canada_total_deaths', 'canada_total_cases'})",frozenset({'canada_total_tests'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+68,"frozenset({'canada_total_tests', 'canada_total_deaths'})",frozenset({'canada_total_cases'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+69,frozenset({'canada_total_deaths'}),"frozenset({'canada_total_tests', 'canada_total_cases'})",0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+70,"frozenset({'canada_total_tests', 'total_deaths'})",frozenset({'canada_total_cases'}),0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+71,"frozenset({'canada_total_cases', 'total_deaths'})",frozenset({'canada_total_tests'}),0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+72,frozenset({'total_deaths'}),"frozenset({'canada_total_tests', 'canada_total_cases'})",0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+73,"frozenset({'canada_total_deaths', 'canada_total_cases'})",frozenset({'total_tests'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+74,"frozenset({'total_tests', 'canada_total_deaths'})",frozenset({'canada_total_cases'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+75,frozenset({'canada_total_deaths'}),"frozenset({'total_tests', 'canada_total_cases'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+76,"frozenset({'total_tests', 'total_deaths'})",frozenset({'canada_total_cases'}),0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+77,"frozenset({'canada_total_cases', 'total_deaths'})",frozenset({'total_tests'}),0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+78,frozenset({'total_deaths'}),"frozenset({'total_tests', 'canada_total_cases'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+79,"frozenset({'canada_total_tests', 'total_tests'})",frozenset({'total_cases'}),0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+80,"frozenset({'canada_total_tests', 'total_cases'})",frozenset({'total_tests'}),0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+81,"frozenset({'total_tests', 'total_cases'})",frozenset({'canada_total_tests'}),0.75,0.9166666666666666,0.75,1.0,1.090909090909091,0.0625,inf
+82,frozenset({'canada_total_tests'}),"frozenset({'total_tests', 'total_cases'})",0.9166666666666666,0.75,0.75,0.8181818181818182,1.090909090909091,0.0625,1.3750000000000004
+83,frozenset({'total_tests'}),"frozenset({'canada_total_tests', 'total_cases'})",0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+84,frozenset({'total_cases'}),"frozenset({'canada_total_tests', 'total_tests'})",0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+85,"frozenset({'canada_total_tests', 'total_deaths'})",frozenset({'total_cases'}),0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+86,"frozenset({'total_cases', 'total_deaths'})",frozenset({'canada_total_tests'}),0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+87,frozenset({'total_deaths'}),"frozenset({'canada_total_tests', 'total_cases'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+88,"frozenset({'total_tests', 'total_deaths'})",frozenset({'total_cases'}),0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+89,"frozenset({'total_cases', 'total_deaths'})",frozenset({'total_tests'}),0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+90,frozenset({'total_deaths'}),"frozenset({'total_tests', 'total_cases'})",0.5,0.75,0.5,1.0,1.3333333333333333,0.125,inf
+91,"frozenset({'canada_total_tests', 'canada_total_deaths'})",frozenset({'total_tests'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+92,"frozenset({'total_tests', 'canada_total_deaths'})",frozenset({'canada_total_tests'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+93,frozenset({'canada_total_deaths'}),"frozenset({'canada_total_tests', 'total_tests'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+94,"frozenset({'canada_total_tests', 'total_deaths'})",frozenset({'total_tests'}),0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+95,"frozenset({'total_tests', 'total_deaths'})",frozenset({'canada_total_tests'}),0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+96,frozenset({'total_deaths'}),"frozenset({'canada_total_tests', 'total_tests'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+97,"frozenset({'inflation_rate', 'canada_total_tests', 'canada_total_cases'})",frozenset({'total_cases'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+98,"frozenset({'inflation_rate', 'canada_total_cases', 'total_cases'})",frozenset({'canada_total_tests'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+99,"frozenset({'canada_total_tests', 'inflation_rate', 'total_cases'})",frozenset({'canada_total_cases'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+100,"frozenset({'inflation_rate', 'canada_total_cases'})","frozenset({'canada_total_tests', 'total_cases'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+101,"frozenset({'canada_total_tests', 'inflation_rate'})","frozenset({'canada_total_cases', 'total_cases'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+102,"frozenset({'inflation_rate', 'total_cases'})","frozenset({'canada_total_tests', 'canada_total_cases'})",0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+103,frozenset({'inflation_rate'}),"frozenset({'canada_total_tests', 'canada_total_cases', 'total_cases'})",0.5,0.8333333333333334,0.4166666666666667,0.8333333333333334,1.0,0.0,1.0
+104,"frozenset({'inflation_rate', 'total_tests', 'canada_total_cases'})",frozenset({'total_cases'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+105,"frozenset({'inflation_rate', 'canada_total_cases', 'total_cases'})",frozenset({'total_tests'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+106,"frozenset({'total_tests', 'inflation_rate', 'total_cases'})",frozenset({'canada_total_cases'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+107,"frozenset({'inflation_rate', 'canada_total_cases'})","frozenset({'total_tests', 'total_cases'})",0.4166666666666667,0.75,0.4166666666666667,1.0,1.3333333333333333,0.10416666666666669,inf
+108,"frozenset({'total_tests', 'inflation_rate'})","frozenset({'canada_total_cases', 'total_cases'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+109,"frozenset({'inflation_rate', 'total_cases'})","frozenset({'total_tests', 'canada_total_cases'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+110,frozenset({'inflation_rate'}),"frozenset({'total_tests', 'canada_total_cases', 'total_cases'})",0.5,0.75,0.4166666666666667,0.8333333333333334,1.1111111111111112,0.041666666666666685,1.5000000000000004
+111,"frozenset({'inflation_rate', 'canada_total_tests', 'canada_total_cases'})",frozenset({'total_tests'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+112,"frozenset({'inflation_rate', 'total_tests', 'canada_total_cases'})",frozenset({'canada_total_tests'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+113,"frozenset({'canada_total_tests', 'total_tests', 'inflation_rate'})",frozenset({'canada_total_cases'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+114,"frozenset({'inflation_rate', 'canada_total_cases'})","frozenset({'canada_total_tests', 'total_tests'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+115,"frozenset({'canada_total_tests', 'inflation_rate'})","frozenset({'total_tests', 'canada_total_cases'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+116,"frozenset({'total_tests', 'inflation_rate'})","frozenset({'canada_total_tests', 'canada_total_cases'})",0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+117,frozenset({'inflation_rate'}),"frozenset({'canada_total_tests', 'total_tests', 'canada_total_cases'})",0.5,0.8333333333333334,0.4166666666666667,0.8333333333333334,1.0,0.0,1.0
+118,"frozenset({'canada_total_tests', 'total_tests', 'inflation_rate'})",frozenset({'total_cases'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+119,"frozenset({'canada_total_tests', 'inflation_rate', 'total_cases'})",frozenset({'total_tests'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+120,"frozenset({'total_tests', 'inflation_rate', 'total_cases'})",frozenset({'canada_total_tests'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+121,"frozenset({'canada_total_tests', 'inflation_rate'})","frozenset({'total_tests', 'total_cases'})",0.4166666666666667,0.75,0.4166666666666667,1.0,1.3333333333333333,0.10416666666666669,inf
+122,"frozenset({'total_tests', 'inflation_rate'})","frozenset({'canada_total_tests', 'total_cases'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+123,"frozenset({'inflation_rate', 'total_cases'})","frozenset({'canada_total_tests', 'total_tests'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+124,frozenset({'inflation_rate'}),"frozenset({'canada_total_tests', 'total_tests', 'total_cases'})",0.5,0.75,0.4166666666666667,0.8333333333333334,1.1111111111111112,0.041666666666666685,1.5000000000000004
+125,"frozenset({'canada_total_tests', 'total_tests', 'canada_total_cases'})",frozenset({'total_cases'}),0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+126,"frozenset({'canada_total_tests', 'total_tests', 'total_cases'})",frozenset({'canada_total_cases'}),0.75,0.9166666666666666,0.75,1.0,1.090909090909091,0.0625,inf
+127,"frozenset({'canada_total_tests', 'canada_total_cases', 'total_cases'})",frozenset({'total_tests'}),0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+128,"frozenset({'total_tests', 'canada_total_cases', 'total_cases'})",frozenset({'canada_total_tests'}),0.75,0.9166666666666666,0.75,1.0,1.090909090909091,0.0625,inf
+129,"frozenset({'canada_total_tests', 'total_tests'})","frozenset({'canada_total_cases', 'total_cases'})",0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+130,"frozenset({'canada_total_tests', 'canada_total_cases'})","frozenset({'total_tests', 'total_cases'})",0.9166666666666666,0.75,0.75,0.8181818181818182,1.090909090909091,0.0625,1.3750000000000004
+131,"frozenset({'canada_total_tests', 'total_cases'})","frozenset({'total_tests', 'canada_total_cases'})",0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+132,"frozenset({'total_tests', 'canada_total_cases'})","frozenset({'canada_total_tests', 'total_cases'})",0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+133,"frozenset({'total_tests', 'total_cases'})","frozenset({'canada_total_tests', 'canada_total_cases'})",0.75,0.9166666666666666,0.75,1.0,1.090909090909091,0.0625,inf
+134,"frozenset({'canada_total_cases', 'total_cases'})","frozenset({'canada_total_tests', 'total_tests'})",0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+135,frozenset({'canada_total_tests'}),"frozenset({'total_tests', 'canada_total_cases', 'total_cases'})",0.9166666666666666,0.75,0.75,0.8181818181818182,1.090909090909091,0.0625,1.3750000000000004
+136,frozenset({'total_tests'}),"frozenset({'canada_total_tests', 'canada_total_cases', 'total_cases'})",0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+137,frozenset({'canada_total_cases'}),"frozenset({'canada_total_tests', 'total_tests', 'total_cases'})",0.9166666666666666,0.75,0.75,0.8181818181818182,1.090909090909091,0.0625,1.3750000000000004
+138,frozenset({'total_cases'}),"frozenset({'canada_total_tests', 'total_tests', 'canada_total_cases'})",0.8333333333333334,0.8333333333333334,0.75,0.8999999999999999,1.0799999999999998,0.05555555555555547,1.6666666666666647
+139,"frozenset({'canada_total_tests', 'total_cases', 'total_deaths'})",frozenset({'canada_total_cases'}),0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+140,"frozenset({'canada_total_tests', 'canada_total_cases', 'total_deaths'})",frozenset({'total_cases'}),0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+141,"frozenset({'canada_total_cases', 'total_cases', 'total_deaths'})",frozenset({'canada_total_tests'}),0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+142,"frozenset({'canada_total_tests', 'total_deaths'})","frozenset({'canada_total_cases', 'total_cases'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+143,"frozenset({'total_cases', 'total_deaths'})","frozenset({'canada_total_tests', 'canada_total_cases'})",0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+144,"frozenset({'canada_total_cases', 'total_deaths'})","frozenset({'canada_total_tests', 'total_cases'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+145,frozenset({'total_deaths'}),"frozenset({'canada_total_cases', 'canada_total_tests', 'total_cases'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+146,"frozenset({'canada_total_cases', 'total_cases', 'total_deaths'})",frozenset({'total_tests'}),0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+147,"frozenset({'total_tests', 'total_cases', 'total_deaths'})",frozenset({'canada_total_cases'}),0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+148,"frozenset({'total_tests', 'canada_total_cases', 'total_deaths'})",frozenset({'total_cases'}),0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+149,"frozenset({'total_cases', 'total_deaths'})","frozenset({'total_tests', 'canada_total_cases'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+150,"frozenset({'canada_total_cases', 'total_deaths'})","frozenset({'total_tests', 'total_cases'})",0.5,0.75,0.5,1.0,1.3333333333333333,0.125,inf
+151,"frozenset({'total_tests', 'total_deaths'})","frozenset({'canada_total_cases', 'total_cases'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+152,frozenset({'total_deaths'}),"frozenset({'canada_total_cases', 'total_tests', 'total_cases'})",0.5,0.75,0.5,1.0,1.3333333333333333,0.125,inf
+153,"frozenset({'canada_total_deaths', 'canada_total_tests', 'canada_total_cases'})",frozenset({'total_tests'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+154,"frozenset({'canada_total_deaths', 'total_tests', 'canada_total_cases'})",frozenset({'canada_total_tests'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+155,"frozenset({'canada_total_tests', 'total_tests', 'canada_total_deaths'})",frozenset({'canada_total_cases'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+156,"frozenset({'canada_total_deaths', 'canada_total_cases'})","frozenset({'canada_total_tests', 'total_tests'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+157,"frozenset({'canada_total_tests', 'canada_total_deaths'})","frozenset({'total_tests', 'canada_total_cases'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+158,"frozenset({'total_tests', 'canada_total_deaths'})","frozenset({'canada_total_tests', 'canada_total_cases'})",0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+159,frozenset({'canada_total_deaths'}),"frozenset({'canada_total_tests', 'total_tests', 'canada_total_cases'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+160,"frozenset({'canada_total_tests', 'total_tests', 'total_deaths'})",frozenset({'canada_total_cases'}),0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+161,"frozenset({'canada_total_tests', 'canada_total_cases', 'total_deaths'})",frozenset({'total_tests'}),0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+162,"frozenset({'total_tests', 'canada_total_cases', 'total_deaths'})",frozenset({'canada_total_tests'}),0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+163,"frozenset({'canada_total_tests', 'total_deaths'})","frozenset({'total_tests', 'canada_total_cases'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+164,"frozenset({'total_tests', 'total_deaths'})","frozenset({'canada_total_tests', 'canada_total_cases'})",0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+165,"frozenset({'canada_total_cases', 'total_deaths'})","frozenset({'canada_total_tests', 'total_tests'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+166,frozenset({'total_deaths'}),"frozenset({'canada_total_tests', 'total_tests', 'canada_total_cases'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+167,"frozenset({'canada_total_tests', 'total_tests', 'total_deaths'})",frozenset({'total_cases'}),0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+168,"frozenset({'canada_total_tests', 'total_cases', 'total_deaths'})",frozenset({'total_tests'}),0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+169,"frozenset({'total_tests', 'total_cases', 'total_deaths'})",frozenset({'canada_total_tests'}),0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+170,"frozenset({'canada_total_tests', 'total_deaths'})","frozenset({'total_tests', 'total_cases'})",0.5,0.75,0.5,1.0,1.3333333333333333,0.125,inf
+171,"frozenset({'total_tests', 'total_deaths'})","frozenset({'canada_total_tests', 'total_cases'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+172,"frozenset({'total_cases', 'total_deaths'})","frozenset({'canada_total_tests', 'total_tests'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+173,frozenset({'total_deaths'}),"frozenset({'canada_total_tests', 'total_tests', 'total_cases'})",0.5,0.75,0.5,1.0,1.3333333333333333,0.125,inf
+174,"frozenset({'inflation_rate', 'canada_total_tests', 'total_tests', 'canada_total_cases'})",frozenset({'total_cases'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+175,"frozenset({'inflation_rate', 'total_tests', 'canada_total_cases', 'total_cases'})",frozenset({'canada_total_tests'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+176,"frozenset({'canada_total_tests', 'total_tests', 'inflation_rate', 'total_cases'})",frozenset({'canada_total_cases'}),0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+177,"frozenset({'inflation_rate', 'canada_total_tests', 'canada_total_cases', 'total_cases'})",frozenset({'total_tests'}),0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+178,"frozenset({'inflation_rate', 'total_tests', 'canada_total_cases'})","frozenset({'canada_total_tests', 'total_cases'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+179,"frozenset({'canada_total_tests', 'total_tests', 'inflation_rate'})","frozenset({'canada_total_cases', 'total_cases'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+180,"frozenset({'total_tests', 'inflation_rate', 'total_cases'})","frozenset({'canada_total_tests', 'canada_total_cases'})",0.4166666666666667,0.9166666666666666,0.4166666666666667,1.0,1.090909090909091,0.034722222222222265,inf
+181,"frozenset({'inflation_rate', 'canada_total_tests', 'canada_total_cases'})","frozenset({'total_tests', 'total_cases'})",0.4166666666666667,0.75,0.4166666666666667,1.0,1.3333333333333333,0.10416666666666669,inf
+182,"frozenset({'inflation_rate', 'canada_total_cases', 'total_cases'})","frozenset({'canada_total_tests', 'total_tests'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+183,"frozenset({'canada_total_tests', 'inflation_rate', 'total_cases'})","frozenset({'total_tests', 'canada_total_cases'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+184,"frozenset({'total_tests', 'inflation_rate'})","frozenset({'canada_total_tests', 'canada_total_cases', 'total_cases'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+185,"frozenset({'inflation_rate', 'canada_total_cases'})","frozenset({'canada_total_tests', 'total_tests', 'total_cases'})",0.4166666666666667,0.75,0.4166666666666667,1.0,1.3333333333333333,0.10416666666666669,inf
+186,"frozenset({'canada_total_tests', 'inflation_rate'})","frozenset({'total_tests', 'canada_total_cases', 'total_cases'})",0.4166666666666667,0.75,0.4166666666666667,1.0,1.3333333333333333,0.10416666666666669,inf
+187,"frozenset({'inflation_rate', 'total_cases'})","frozenset({'canada_total_tests', 'total_tests', 'canada_total_cases'})",0.4166666666666667,0.8333333333333334,0.4166666666666667,1.0,1.2,0.06944444444444442,inf
+188,frozenset({'inflation_rate'}),"frozenset({'canada_total_tests', 'total_tests', 'canada_total_cases', 'total_cases'})",0.5,0.75,0.4166666666666667,0.8333333333333334,1.1111111111111112,0.041666666666666685,1.5000000000000004
+189,"frozenset({'canada_total_tests', 'total_tests', 'canada_total_cases', 'total_deaths'})",frozenset({'total_cases'}),0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+190,"frozenset({'total_cases', 'total_tests', 'canada_total_cases', 'total_deaths'})",frozenset({'canada_total_tests'}),0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+191,"frozenset({'canada_total_tests', 'total_tests', 'total_cases', 'total_deaths'})",frozenset({'canada_total_cases'}),0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+192,"frozenset({'canada_total_tests', 'total_cases', 'canada_total_cases', 'total_deaths'})",frozenset({'total_tests'}),0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+193,"frozenset({'total_tests', 'canada_total_cases', 'total_deaths'})","frozenset({'canada_total_tests', 'total_cases'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+194,"frozenset({'canada_total_tests', 'total_tests', 'total_deaths'})","frozenset({'canada_total_cases', 'total_cases'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+195,"frozenset({'total_tests', 'total_cases', 'total_deaths'})","frozenset({'canada_total_tests', 'canada_total_cases'})",0.5,0.9166666666666666,0.5,1.0,1.090909090909091,0.041666666666666685,inf
+196,"frozenset({'canada_total_tests', 'canada_total_cases', 'total_deaths'})","frozenset({'total_tests', 'total_cases'})",0.5,0.75,0.5,1.0,1.3333333333333333,0.125,inf
+197,"frozenset({'total_cases', 'canada_total_cases', 'total_deaths'})","frozenset({'canada_total_tests', 'total_tests'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+198,"frozenset({'canada_total_tests', 'total_cases', 'total_deaths'})","frozenset({'total_tests', 'canada_total_cases'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+199,"frozenset({'total_tests', 'total_deaths'})","frozenset({'canada_total_tests', 'canada_total_cases', 'total_cases'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+200,"frozenset({'canada_total_cases', 'total_deaths'})","frozenset({'canada_total_tests', 'total_tests', 'total_cases'})",0.5,0.75,0.5,1.0,1.3333333333333333,0.125,inf
+201,"frozenset({'canada_total_tests', 'total_deaths'})","frozenset({'total_tests', 'canada_total_cases', 'total_cases'})",0.5,0.75,0.5,1.0,1.3333333333333333,0.125,inf
+202,"frozenset({'total_cases', 'total_deaths'})","frozenset({'canada_total_tests', 'total_tests', 'canada_total_cases'})",0.5,0.8333333333333334,0.5,1.0,1.2,0.08333333333333331,inf
+203,frozenset({'total_deaths'}),"frozenset({'canada_total_tests', 'total_tests', 'canada_total_cases', 'total_cases'})",0.5,0.75,0.5,1.0,1.3333333333333333,0.125,inf
