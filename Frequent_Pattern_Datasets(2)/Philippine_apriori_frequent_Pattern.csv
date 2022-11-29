@@ -1,10 +1,10 @@
 ,support,itemsets
-0,0.4666666666666667,frozenset({2})
-1,0.4,frozenset({4})
-2,0.4222222222222222,frozenset({5})
-3,0.35555555555555557,frozenset({6})
-4,0.37777777777777777,frozenset({7})
-5,0.4444444444444444,frozenset({11})
-6,0.35555555555555557,"frozenset({4, 6})"
-7,0.35555555555555557,"frozenset({11, 5})"
-8,0.35555555555555557,"frozenset({11, 7})"
+0,0.4666666666666667,frozenset({'canada_inflation_rate'})
+1,0.4,frozenset({'canada_total_cases'})
+2,0.4222222222222222,frozenset({'total_cases'})
+3,0.35555555555555557,frozenset({'canada_total_tests'})
+4,0.37777777777777777,frozenset({'total_tests'})
+5,0.4444444444444444,frozenset({'total_deaths'})
+6,0.35555555555555557,"frozenset({'canada_total_cases', 'canada_total_tests'})"
+7,0.35555555555555557,"frozenset({'total_deaths', 'total_cases'})"
+8,0.35555555555555557,"frozenset({'total_tests', 'total_deaths'})"
