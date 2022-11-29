@@ -6,4 +6,4 @@
 4,0.35555555555555557,frozenset({'canada_total_tests'})
 5,0.37777777777777777,frozenset({'total_tests'})
 6,0.35555555555555557,"frozenset({'canada_total_cases', 'total_cases'})"
-7,0.35555555555555557,"frozenset({'canada_total_cases', 'canada_total_tests'})"
+7,0.35555555555555557,"frozenset({'canada_total_tests', 'canada_total_cases'})"
